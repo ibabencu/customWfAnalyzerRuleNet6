@@ -1,0 +1,1 @@
+# customWfAnalyzerRuleNet6
