@@ -11,5 +11,7 @@ foldername  net6.0-windows -> Windows
 
 foldername net6.0  ->Portable
 
+You also need the UiPath Official feed added to VS at Package sources, and from there UiPath.Activities.API
+https://pkgs.dev.azure.com/uipath/Public.Feeds/_packaging/UiPath-Official/nuget/v3/index.json
 
 https://uipath.atlassian.net/browse/STUD-24436
